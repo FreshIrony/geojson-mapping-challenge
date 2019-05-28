@@ -6,4 +6,4 @@ This project maps earthquake data from USGS's GeoJSON Feed using leaflet.js. It 
 
 
 
-![alt text](images/sample.png "Dashboard")
+![alt text](https://github.com/astansall/USGS-Earthquake-Visualization/blob/master/images/sample.PNG "Dashboard")
